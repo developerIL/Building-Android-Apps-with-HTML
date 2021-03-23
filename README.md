@@ -1,170 +1,160 @@
 # android-html
 Android app with HTML, CSS and javascript
 
-<a href="#adroll">AdRoll</a>
 
-AdRoll
-Aha!
-Airbnb
-ALDO
-Algolia
-Artsy
-Atlassian
-Australian Broadcasting Corporation
-Badoo
-BBC
-Betty Crocker
-Bitmovin
-blogfoster
-Bloomberg
-Campaign Monitor
-Carbon Five
-Carousell
-cars.com
-Checkbot
-Clearleft
-Cloudflare
-Cloud Four
-CodeSandbox
-Condé Nast
-Conductor
-DAZN
-De Voorhoede
-DEV
-Discord
-Dropbox
-eBay
-Electronic Arts
-Ele.me
-Etsy
-Evil Martians
-ezCater
-Facebook
-fastq.bio
-Figma
-Financial Times
-Flickr
-Flipboard
-Flipkart
-Flocktory
-Futurice
-Garbarino
-GitHub
-GitLab
-Goibibo
-Google
-GOV.UK
-grammarly
-Gusto
-HealthCare.gov
-Heap
-in der Apotheke
-Infinite Red
-Insider Inc.
-Instagram
-Internet Archive
-Intuit
-InVision
-Khan Academy
-Kickstarter
-Klarna
-Line
-LinkedIn
-Lucidchart
-Lyft
-Mailchimp
-MDN
-Medium
-MemSQL
-Mercado Libre
-Microsoft To-Do
-Mixmax
-Mixpanel
-Monzo
-Mozilla
-Mud
-Myntra
-Netflix
-New Relic
-npm
-OK GROW!
-OYO
-Oyster
-Palantir
-PayPal
-Pinafore
-Pinterest
-Pivotal Tracker
-Plaid
-Plotly
-Product Hunt
-Quizlet
-Quora
-REA Group
-Reaktor
-Reddit
-Redmart
-repl.it
-Revolut
-Roompact
-Safety Culture
-Scratch
-Shopify
-Skillshare
-Slack
-Snipcart
-SoundCloud
-Spectrum
-Spotify
-Stack Overflow
-stripe
-SumUp
-Superhuman
-TakeShape
-The Guardian
-The Knot Worldwide
-The New York Times
-The Telegraph
-The Times & The Sunday Times
-The U.S. Digital Service
-The Wall Street Journal
-This Also
-ThomasNet
-Thread
-Tinder
-TinyMCE
-Tokopedia
-Treebo
-Tumblr
-Twitch
-Twitter
-Uber
-Udacity
-Unity
-Unsplash
-Verve
-Walmart Labs
-Wikimedia
-Wingify
-Wix
-Yelp
-YNAB
-* [YouTube
-* [Zajno
-* [Zynga
-* [18F
-* [1Password
-* [Miscellaneous
-* [I'm an inline-style link](https://www.google.com)
-* [I'm an inline-style link](https://www.google.com)
-* [I'm an inline-style link](https://www.google.com)
-* [I'm an inline-style link](https://www.google.com)
-* [I'm an inline-style link](https://www.google.com)
-* [I'm an inline-style link](https://www.google.com)
-* [I'm an inline-style link](https://www.google.com)
-
-
-
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+<ul>
+<li><a href="#english">English</a>
+<ul>
+<li><a href="#adroll">AdRoll</a></li>
+<li><a href="#aha">Aha!</a></li>
+<li><a href="#airbnb">Airbnb</a></li>
+<li><a href="#aldo">ALDO</a></li>
+<li><a href="#algolia">Algolia</a></li>
+<li><a href="#artsy">Artsy</a></li>
+<li><a href="#atlassian">Atlassian</a></li>
+<li><a href="#australian-broadcasting-corporation">Australian Broadcasting Corporation</a></li>
+<li><a href="#badoo">Badoo</a></li>
+<li><a href="#bbc">BBC</a></li>
+<li><a href="#betty-crocker">Betty Crocker</a></li>
+<li><a href="#bitmovin">Bitmovin</a></li>
+<li><a href="#blogfoster">blogfoster</a></li>
+<li><a href="#bloomberg">Bloomberg</a></li>
+<li><a href="#campaign-monitor">Campaign Monitor</a></li>
+<li><a href="#carbon-five">Carbon Five</a></li>
+<li><a href="#carousell">Carousell</a></li>
+<li><a href="#carscom">cars.com</a></li>
+<li><a href="#checkbot">Checkbot</a></li>
+<li><a href="#clearleft">Clearleft</a></li>
+<li><a href="#cloudflare">Cloudflare</a></li>
+<li><a href="#cloud-four">Cloud Four</a></li>
+<li><a href="#codesandbox">CodeSandbox</a></li>
+<li><a href="#cond%C3%A9-nast">Condé Nast</a></li>
+<li><a href="#conductor">Conductor</a></li>
+<li><a href="#dazn">DAZN</a></li>
+<li><a href="#de-voorhoede">De Voorhoede</a></li>
+<li><a href="#dev">DEV</a></li>
+<li><a href="#discord">Discord</a></li>
+<li><a href="#dropbox">Dropbox</a></li>
+<li><a href="#ebay">eBay</a></li>
+<li><a href="#electronic-arts">Electronic Arts</a></li>
+<li><a href="#eleme">Ele.me</a></li>
+<li><a href="#etsy">Etsy</a></li>
+<li><a href="#evil-martians">Evil Martians</a></li>
+<li><a href="#ezcater">ezCater</a></li>
+<li><a href="#facebook">Facebook</a></li>
+<li><a href="#fastqbio">fastq.bio</a></li>
+<li><a href="#figma">Figma</a></li>
+<li><a href="#financial-times">Financial Times</a></li>
+<li><a href="#flickr">Flickr</a></li>
+<li><a href="#flipboard">Flipboard</a></li>
+<li><a href="#flipkart">Flipkart</a></li>
+<li><a href="#flocktory">Flocktory</a></li>
+<li><a href="#futurice">Futurice</a></li>
+<li><a href="#garbarino">Garbarino</a></li>
+<li><a href="#github">GitHub</a></li>
+<li><a href="#gitlab">GitLab</a></li>
+<li><a href="#goibibo">Goibibo</a></li>
+<li><a href="#google">Google</a></li>
+<li><a href="#govuk">GOV.UK</a></li>
+<li><a href="#grammarly">grammarly</a></li>
+<li><a href="#gusto">Gusto</a></li>
+<li><a href="#healthcaregov">HealthCare.gov</a></li>
+<li><a href="#heap">Heap</a></li>
+<li><a href="#in-der-apotheke">in der Apotheke</a></li>
+<li><a href="#infinite-red">Infinite Red</a></li>
+<li><a href="#insider-inc">Insider Inc.</a></li>
+<li><a href="#instagram">Instagram</a></li>
+<li><a href="#internet-archive">Internet Archive</a></li>
+<li><a href="#intuit">Intuit</a></li>
+<li><a href="#invision">InVision</a></li>
+<li><a href="#khan-academy">Khan Academy</a></li>
+<li><a href="#kickstarter">Kickstarter</a></li>
+<li><a href="#klarna">Klarna</a></li>
+<li><a href="#line">Line</a></li>
+<li><a href="#linkedin">LinkedIn</a></li>
+<li><a href="#lucidchart">Lucidchart</a></li>
+<li><a href="#lyft">Lyft</a></li>
+<li><a href="#mailchimp">Mailchimp</a></li>
+<li><a href="#mdn">MDN</a></li>
+<li><a href="#medium">Medium</a></li>
+<li><a href="#memsql">MemSQL</a></li>
+<li><a href="#mercado-libre">Mercado Libre</a></li>
+<li><a href="#microsoft-to-do">Microsoft To-Do</a></li>
+<li><a href="#mixmax">Mixmax</a></li>
+<li><a href="#mixpanel">Mixpanel</a></li>
+<li><a href="#monzo">Monzo</a></li>
+<li><a href="#mozilla">Mozilla</a></li>
+<li><a href="#mud">Mud</a></li>
+<li><a href="#myntra">Myntra</a></li>
+<li><a href="#netflix">Netflix</a></li>
+<li><a href="#new-relic">New Relic</a></li>
+<li><a href="#npm">npm</a></li>
+<li><a href="#ok-grow">OK GROW!</a></li>
+<li><a href="#oyo">OYO</a></li>
+<li><a href="#oyster">Oyster</a></li>
+<li><a href="#palantir">Palantir</a></li>
+<li><a href="#paypal">PayPal</a></li>
+<li><a href="#pinafore">Pinafore</a></li>
+<li><a href="#pinterest">Pinterest</a></li>
+<li><a href="#pivotal-tracker">Pivotal Tracker</a></li>
+<li><a href="#plaid">Plaid</a></li>
+<li><a href="#plotly">Plotly</a></li>
+<li><a href="#product-hunt">Product Hunt</a></li>
+<li><a href="#quizlet">Quizlet</a></li>
+<li><a href="#quora">Quora</a></li>
+<li><a href="#rea-group">REA Group</a></li>
+<li><a href="#reaktor">Reaktor</a></li>
+<li><a href="#reddit">Reddit</a></li>
+<li><a href="#redmart">Redmart</a></li>
+<li><a href="#replit">repl.it</a></li>
+<li><a href="#revolut">Revolut</a></li>
+<li><a href="#roompact">Roompact</a></li>
+<li><a href="#safety-culture">Safety Culture</a></li>
+<li><a href="#scratch">Scratch</a></li>
+<li><a href="#shopify">Shopify</a></li>
+<li><a href="#skillshare">Skillshare</a></li>
+<li><a href="#slack">Slack</a></li>
+<li><a href="#snipcart">Snipcart</a></li>
+<li><a href="#soundcloud">SoundCloud</a></li>
+<li><a href="#spectrum">Spectrum</a></li>
+<li><a href="#spotify">Spotify</a></li>
+<li><a href="#stack-overflow">Stack Overflow</a></li>
+<li><a href="#stripe">stripe</a></li>
+<li><a href="#sumup">SumUp</a></li>
+<li><a href="#superhuman">Superhuman</a></li>
+<li><a href="#takeshape">TakeShape</a></li>
+<li><a href="#the-guardian">The Guardian</a></li>
+<li><a href="#the-knot-worldwide">The Knot Worldwide</a></li>
+<li><a href="#the-new-york-times">The New York Times</a></li>
+<li><a href="#the-telegraph">The Telegraph</a></li>
+<li><a href="#the-times--the-sunday-times">The Times &amp; The Sunday Times</a></li>
+<li><a href="#the-us-digital-service">The U.S. Digital Service</a></li>
+<li><a href="#the-wall-street-journal">The Wall Street Journal</a></li>
+<li><a href="#this-also">This Also</a></li>
+<li><a href="#thomasnet">ThomasNet</a></li>
+<li><a href="#thread">Thread</a></li>
+<li><a href="#tinder">Tinder</a></li>
+<li><a href="#tinymce">TinyMCE</a></li>
+<li><a href="#tokopedia">Tokopedia</a></li>
+<li><a href="#treebo">Treebo</a></li>
+<li><a href="#tumblr">Tumblr</a></li>
+<li><a href="#twitch">Twitch</a></li>
+<li><a href="#twitter">Twitter</a></li>
+<li><a href="#uber">Uber</a></li>
+<li><a href="#udacity">Udacity</a></li>
+<li><a href="#unity">Unity</a></li>
+<li><a href="#unsplash">Unsplash</a></li>
+<li><a href="#verve">Verve</a></li>
+<li><a href="#walmart-labs">Walmart Labs</a></li>
+<li><a href="#wikimedia">Wikimedia</a></li>
+<li><a href="#wingify">Wingify</a></li>
+<li><a href="#wix">Wix</a></li>
+<li><a href="#yelp">Yelp</a></li>
+<li><a href="#ynab">YNAB</a></li>
+<li><a href="#youtube">YouTube</a></li>
+<li><a href="#zajno">Zajno</a></li>
+<li><a href="#zynga">Zynga</a></li>
+<li><a href="#18f">18F</a></li>
+<li><a href="#1password">1Password</a></li>
+<li><a href="#miscellaneous">Miscellaneous</a></li>
+</ul>
