@@ -1,7 +1,7 @@
 # android-html
 Android app with HTML, CSS and javascript
 
-⋅⋅* Unordered sub-list. 
+* Unordered sub-list. 
 dfsdf
 dsfsdds
 dsfsdf
