@@ -112,6 +112,7 @@ Android app with HTML, CSS and javascript
 <li><a href="#safety-culture">Safety Culture</a></li>
 <li><a href="#scratch">Scratch</a></li>
 <li><a href="#shopify">Shopify</a></li>
+<li><a href="https://www.shopluscenter.com">shopluscenter</a></li>
 <li><a href="#skillshare">Skillshare</a></li>
 <li><a href="#slack">Slack</a></li>
 <li><a href="#snipcart">Snipcart</a></li>
