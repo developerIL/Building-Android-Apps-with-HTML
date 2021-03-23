@@ -1,2 +1,2 @@
-# Building-Android-Apps-with-HTML
-Building Android Apps with HTML, CSS ...
+# android-html
+Android app with HTML, CSS and javascript
